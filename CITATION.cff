@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "NDSR Folder Workflow"
+type: software
+authors:
+  - family-names: Hoch
+    given-names: "Jonathan W."
+    orcid: "https://orcid.org/0000-0002-4992-1199"
+    affiliation: "Cardiovascular and Applied Physiology Laboratory, Florida State University"
+repository-code: "https://github.com/FSUcaplab/analysis-ndsr"
+url: "https://github.com/FSUcaplab/analysis-ndsr"
+license: MIT
+date-released: 2026-04-27
+abstract: >-
+  Python workflow for combining Nutrition Data System for Research (NDSR) raw
+  text exports into a single master CSV, then selecting, filtering, averaging,
+  and exporting nutrient outputs through a graphical user interface. Built for
+  study folders in which each participant subfolder contains multiple NDSR
+  text exports.
+keywords:
+  - NDSR
+  - Nutrition Data System for Research
+  - dietary assessment
+  - nutrient analysis
+  - data wrangling
+  - research data management

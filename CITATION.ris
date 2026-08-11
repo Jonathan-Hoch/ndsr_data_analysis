@@ -3,7 +3,7 @@ TI  - NDSR Folder Workflow
 AU  - Hoch, Jonathan W.
 PY  - 2026
 DA  - 2026/04/27/
-UR  - https://github.com/FSUcaplab/analysis-ndsr
+UR  - https://github.com/FSUcaplab/ndsr-toolkit
 AB  - Python workflow for combining Nutrition Data System for Research (NDSR) raw text exports into a single master CSV, then selecting, filtering, averaging, and exporting nutrient outputs through a graphical user interface. Built for study folders in which each participant subfolder contains multiple NDSR text exports.
 KW  - NDSR
 KW  - Nutrition Data System for Research
